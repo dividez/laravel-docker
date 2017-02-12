@@ -12,7 +12,7 @@
 
 FROM laradock/workspace:1.2
 
-MAINTAINER Mahmoud Zalt <mahmoud@zalt.me>
+MAINTAINER luoyan <975974740@qq.com>
 
 #
 #--------------------------------------------------------------------------

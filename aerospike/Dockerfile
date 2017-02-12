@@ -1,6 +1,6 @@
 FROM aerospike:latest
 
-MAINTAINER Luciano Jr <luciano@lucianojr.com.br>
+MAINTAINER luoyan <975974740@qq.com>
 
 RUN rm /etc/aerospike/aerospike.conf
 
